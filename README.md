@@ -19,7 +19,7 @@ Você pode testar o chatbot agora mesmo acessando o link abaixo:
 
 ## 🚀 Tecnologias Utilizadas
 
-- JavaScript / HTML / CSS
+- TypeScript / Next.js / TailWind
 - API da OpenRouter
 - Render (hospedagem gratuita)
 
